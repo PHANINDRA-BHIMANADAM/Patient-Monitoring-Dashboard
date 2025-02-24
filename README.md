@@ -1,7 +1,9 @@
 # Patient-Monitoring-Dashboard
+
 Patient monitoring dashboard using machine learning and visualization techniques to analyze Remote Patient Monitoring (RPM) needs.
 
 **Problem**
+
 With the rise of digital healthcare, Remote Patient Monitoring (RPM) is becoming essential. However, identifying which patients truly require RPM remains a challenge.
 This project aims to develop a predictive model that assesses patient data and determines the need for RPM.
 
