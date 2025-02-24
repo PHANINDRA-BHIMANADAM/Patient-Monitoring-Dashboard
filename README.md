@@ -7,6 +7,7 @@ This project aims to develop a predictive model that assesses patient data and d
 
 **Solution**
 **The solution includes:**
+
 ✅ Data preprocessing and feature engineering
 
 ✅ Predictive model using Random Forest Classifier
